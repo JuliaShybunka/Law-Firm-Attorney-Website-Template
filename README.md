@@ -1,4 +1,4 @@
-# Law-Firm
+# Law Firm
 
 ## Table of contents
 * [General info](#general-info)
