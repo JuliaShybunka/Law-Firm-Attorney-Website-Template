@@ -1,4 +1,4 @@
-# Law-Firm-Attorney-Website-Template
+# Law-Firm
 
 ## Table of contents
 * [General info](#general-info)
